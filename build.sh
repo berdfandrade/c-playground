@@ -1,0 +1,1 @@
+gcc -o ray ray.c -lraylib -s -Os -std=c99 -Wall -Iexternal -DPLATFORM_DESKTOP && ./ray
