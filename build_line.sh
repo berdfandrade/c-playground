@@ -1,1 +1,1 @@
-gcc -o draw_line.c drawLine && ./drawLine
+gcc -o drawLine draw_line.c && ./drawLine
