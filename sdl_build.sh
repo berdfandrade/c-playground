@@ -1,1 +1,1 @@
-gcc SDL.c -o SDL -lSDL2 && ./SDL
+gcc SDL.c -o SDL -lSDL2 -lSDL -lSDL_ttf && ./SDL
